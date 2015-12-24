@@ -5,6 +5,7 @@ This is the Project my team did in Third-Semester at IIIT Bangalore. Me and my t
 
 1. Suprgya Bhushan - https://github.com/suprgyabhushan
 2. Pranav Seetharaman - https://github.com/orgs/iiitb2014/people/pranavsr97
+3. Likhita S
 
 ##References
 
